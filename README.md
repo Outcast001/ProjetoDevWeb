@@ -1,17 +1,31 @@
-# ProjetoDevWeb
-Repositório de projetos de programação Web
+# Meus Projetos de Programação Web 🌐
 
-###### Copia do projeto html-css do curso do professor Gustavo-Guanabara
+Olá, seja bem-vindo(a) ao meu repositório de projetos de programação web. Aqui você vai encontrar alguns exemplos de sites e aplicativos que eu desenvolvi usando HTML, CSS e JavaScript. Espero que você goste do meu trabalho e se inspire a criar os seus próprios projetos. 😊
 
-# Curso de HTML5 e CSS3
+## Calculadora 🧮
 
-Material público para o ensino básico de HTML5 e CSS3 para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
+Um dos meus primeiros projetos foi uma calculadora simples que pode fazer operações básicas como soma, subtração, multiplicação e divisão. Eu usei um layout simples e cores claras para criar uma interface amigável e intuitiva. Você pode ver o resultado na imagem abaixo:
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
-* [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
-* [Resolva os desafios de HTML aqui](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
+![Imagem da calculadora]
 
-## Direitos de uso
+Você também pode ver a calculadora em ação no gif abaixo:
 
-Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado pelo Prof. Gustavo Guanabara. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
+![Gif da calculadora]
+
+Se você quiser ver o código-fonte da calculadora, você pode acessar o arquivo [calculator.html] neste repositório.
+
+## To-do App 📝
+
+Outro projeto que eu fiz foi um to-do app, que é um aplicativo para organizar as suas tarefas diárias. Você pode adicionar, editar, marcar como concluída ou excluir as suas tarefas. Você também pode filtrar as tarefas por status (todas, ativas ou concluídas). Eu usei um design minimalista e cores vibrantes para criar uma interface atraente e funcional. Você pode ver o resultado na imagem abaixo:
+
+![Imagem do to-do app]
+
+Você também pode ver o to-do app em ação no gif abaixo:
+
+![Gif do to-do app]
+
+Se você quiser ver o código-fonte do to-do app, você pode acessar o arquivo [todo.html] neste repositório.
+
+## Conclusão 🎉
+
+Esses foram alguns dos meus projetos de programação web que eu quis compartilhar com você. Espero que você tenha gostado de conhecer um pouco do meu trabalho e que isso te motive a aprender mais sobre programação web. Se você tiver alguma dúvida, sugestão ou feedback, por favor, entre em contato comigo pelo meu e-mail [meuemail@exemplo.com]. Obrigado pela sua atenção e até a próxima! 😄
