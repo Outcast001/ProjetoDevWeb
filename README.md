@@ -6,7 +6,7 @@ Olá, seja bem-vindo(a) ao meu repositório de projetos de programação web. Aq
 
 Um dos meus primeiros projetos foi uma calculadora simples que pode fazer operações básicas como soma, subtração, multiplicação e divisão. Eu usei um layout simples e cores claras para criar uma interface amigável e intuitiva. Você pode ver o resultado na imagem abaixo:
 
-![<img src="assets/calculadora versao 1.png" alt="imagem de uma calculadora"/>]
+<img src="assets/calculadora versao 1.png" alt="imagem de uma calculadora"/>
 
 Você também pode ver a calculadora em ação no gif abaixo:
 
