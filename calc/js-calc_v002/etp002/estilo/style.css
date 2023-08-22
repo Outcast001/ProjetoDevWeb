@@ -1,10 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eccd99;
+  background-image: url('../assets/math.jpg');
+  background-repeat: no-repeat;
+  
+  background-size: 100% 125%;
+}
+
 .grid-container {
     display: grid;
     gap: 10px;
-    background-color: #2196F3;
+    background-color: #0e88aa;
     padding: 10px;
     max-width: min-content;
-    border-radius: 16px;
+    border-radius: 32px;
   } 
   
   .grid-item {
@@ -116,4 +125,11 @@
 
 .grid-container div {
   border-radius: 12px;
+}
+
+#border-size {
+  border-style: groove;
+  border-width: 16px;
+  border-color: #333;
+  box-shadow: 30px 30px 30px;
 }
